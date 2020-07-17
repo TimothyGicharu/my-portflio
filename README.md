@@ -10,7 +10,7 @@ The motivation behind this portfolio is the need to display what I can do
 to potential employers or someone who wants to know about me.
 ## Technology used
 Languages used:
-  HTML, CSS, git, Ubuntu terminal, HP laptop
+  HTML, CSS, git, Ubuntu terminal, HP Pavilion laptop
 ## Support details
 In case you find a bug, have questions or ideas of improvement kindly reach out
 ## Link to the projects
