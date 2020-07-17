@@ -15,7 +15,8 @@ Languages used:
 In case you find a bug, have questions or ideas of improvement kindly reach out
 ## Link to the projects
 Github repo link: https://github.com/TimothyGicharu/my-portflio.git
-Github pages link: 
+
+Github pages link: https://timothygicharu.github.io/my-portflio/
 ## History
 Version 0.1 (2020)
 ## Credits
