@@ -12,7 +12,7 @@ to potential employers or someone who wants to know about me.
 Languages used:
   HTML, CSS, git, Ubuntu terminal, HP Pavilion laptop
 ## Support details
-In case you find a bug, have questions or ideas of improvement kindly reach out
+In case you find a bug, have questions or ideas of improvement kindly reach out.
 ## Link to the projects
 Github repo link: https://github.com/TimothyGicharu/my-portflio.git
 
