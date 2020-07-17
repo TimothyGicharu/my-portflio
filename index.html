@@ -74,24 +74,12 @@
             </div>
           </div>
         </div>
+        <div class="footer-tag">
+          <footer><p>Timothy Munene &#8482;</p></footer>
+        </div>
 
       </div>
     </div>
   </body>
-  <script>
-  const portfolioItems = document.querySelectorAll('.portfolio-item-wrapper');
 
-  portfolioItems.forEach(portfolioItem => {
-    portfolioItem.addEventListener('mouseover', () => {
-      console.log(portfolioItem.childNodes[1].classList)
-      portfolioItem.childNodes[1].classList.add('image-darken');
-    });
-
-    portfolioItem.addEventListener('mouseout', () => {
-      console.log(portfolioItem.childNodes[1].classList)
-      portfolioItem.childNodes[1].classList.remove('image-darken');
-    });
-  });
-
-</script>
 </html>
