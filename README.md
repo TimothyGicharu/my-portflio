@@ -11,6 +11,8 @@ to potential employers or someone who wants to know about me.
 ## Technology used
 Languages used:
   HTML, CSS, git, Ubuntu terminal, HP Pavilion laptop
+## Installation
+Click on the link below to be directed to the website
 ## Support details
 In case you find a bug, have questions or ideas of improvement kindly reach out.
 ## Link to the projects
