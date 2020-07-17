@@ -98,11 +98,6 @@ body {
   color: lightseagreen;
 }
 
-.img-darken {
-  transition: 1s;
-  filter: brightness(10%);
-}
-
 .two-column-wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -120,4 +115,10 @@ body {
 
 .profile-content-wrapper h1 {
   color: lightseagreen;
+}
+
+.footer-tag {
+  color: white;
+  text-align: center;
+  margin-bottom:
 }
